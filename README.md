@@ -1,2 +1,1 @@
-# tic-tac-toe playing with java
-# TicTacToe
+# Kółko i krzyżyk naskrobane w Javie
